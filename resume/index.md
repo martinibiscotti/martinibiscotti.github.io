@@ -1,11 +1,11 @@
 # Martin Biscocho
+### [github.com/martinibiscotti](https://github.com/martinibiscotti)
 ### [martinbiscocho@gmail.com](mailto:martinbiscocho@gmail.com)
 ### [linkedin.com/in/martinbiscocho](https://linkedin.com/in/martinbiscocho)
 
 ## Skills
 ---
 * **Proficient in C++ and Python programming languages.**
-* **Working knowledge of Microsoft Office including Word, Excel, and Powerpoint.**
 * **Experienced with working in teams for project completion.**
 * **Strong written and verbal communication skills.**
 
@@ -32,9 +32,10 @@
 **California State University, Sacramento** / *Computer Science*
 * Admitted for transfer: January 2019, Sacramento, CA
 
-**American River College** / *Computer Science* - GPA: 3.75
-* Currently enrolled: August 2017 - December 2019, Sacramento, CA
+**American River College** / *Computer Science*
+* GPA – 3.75
+* Currently enrolled: August 2017 – December 2019, Sacramento, CA
 
 ## Credentials
 ---
-[**IBM Z Academic Initiative** / *Master the Mainframe 2019 - Part 2*](https://www.youracclaim.com/badges/40b451f6-4509-492c-b059-db9e98725fcd/)
+[**IBM Z Academic Initiative / Master the Mainframe 2019 – Part 2**](https://www.youracclaim.com/badges/40b451f6-4509-492c-b059-db9e98725fcd/)
